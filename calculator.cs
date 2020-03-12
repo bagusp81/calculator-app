@@ -43,8 +43,7 @@ class Program
                     Console.Write("\nMaaf menu yang anda pilih tidak tersedia");
                     break;
             }
-            
-            
+           
         }
         
         static int penjumlahan(int a, int b)
